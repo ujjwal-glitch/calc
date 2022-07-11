@@ -1,2 +1,2 @@
 # calculator
-# https://navneetaneja.github.io/calculator/index.html
+# https://ujjwal-glitch.github.io/calc/index.html
